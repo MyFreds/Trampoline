@@ -17,6 +17,7 @@ use pocketmine\math\Vector3;
 use pocketmine\block\Block;
 
 class Main extends PluginBase implements Listener {
+	private $config;
 	
 	public function onEnable() : void {
 		$this->getServer()->getPluginManager()->registerEvents($this ,$this);
