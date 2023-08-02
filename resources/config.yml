@@ -1,8 +1,8 @@
 # Trampoline Config file.
 # Made by Vladu11.
 
-# Trampoline Block ID
-Block: 165
+# Trampoline Block Name
+Block: "slime_block"
 
 # Power
 Power: 0.7
